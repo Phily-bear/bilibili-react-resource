@@ -1,0 +1,1 @@
+https://firebase.google.com/docs/auth/web/google-signin#web-version-9_3
